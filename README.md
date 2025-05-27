@@ -4,7 +4,7 @@
 팀별, 선수별, 연도별 기록을 한눈에 확인하세요.  </h3>
 &nbsp;
 &nbsp;
-
+<br/>
 👉🏻 [더 많은 기록 보러가기](https://amatordays.streamlit.app/)
 
 &nbsp;
