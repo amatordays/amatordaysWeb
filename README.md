@@ -1,47 +1,18 @@
-button {
-  background: black;
-  color: white;
-  font-size: 1.25rem;
-  padding: 2ch 3ch;
-  text-box: cap alphabetic;
-  border-radius: 1e3px;
-  border: none;
+<h3 style="text-align:center;">고교야구 데이터 기록실</h3>  
+
+&nbsp;
+&nbsp;
+- 투수 타율 TOP 5
   
-  position: relative;
-  
-  &::before {
-    --vibrance: 50%;
-    content: " ";
-    position: absolute;
-    inset: 10px 10px -10px;
-    background: linear-gradient(to right in oklch longer hue, oklch(95% var(--vibrance) 0) 0 100%);
-    filter: blur(20px);
-    border-radius: inherit;
-    z-index: -1;
-  }
-}
-
-
-
-@layer support {
-  * {
-    box-sizing: border-box;
-    margin: 0;
-  }
-
-  html {
-    block-size: 100%;
-    color-scheme: light;
-  }
-
-  body {
-    min-block-size: 100%;
-    font-family: system-ui, sans-serif;
-
-    display: grid;
-    place-content: center;
-  }
-}
-
-<button>Explore use cases</button>
-
+| 순위  | 선수명 | 팀 | 타율 |
+| -- | -- | -- | -- |
+| 1  | 장충고    | 조은상(7)  | 0.577 |
+| 2  | 강릉고    | 권민수(39) | 0.543 |
+| 3  | 경남고    | 박보승(17) | 0.500 |
+| 3  | 신흥고    | 이승준(53) | 0.500 |
+| 3  | 광주제일고  | 정휘민(3)  | 0.500 |
+| 3  | 안산공업고  | 구본정(51) | 0.500 |
+| 3  | 강릉고    | 전나엘(24) | 0.500   |
+| 3  | 선린인터넷고 | 박인효(6)  | 0.500 |
+| 9  | 북일고    | 성시우(51) | 0.480 |
+| 10 | 중앙고    | 조성현(19) | 0.478 |
