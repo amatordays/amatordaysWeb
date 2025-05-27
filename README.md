@@ -5,7 +5,7 @@ Amatordays는 고교야구 경기 기록과 선수 데이터를 정리하는 데
 &nbsp;
 &nbsp;&nbsp;
 
-👉🏻 [더 많은 기록 보러가기](https://amatordays.streamlit.app/)
+👉🏻 [**더 많은 기록 보러가기**](https://amatordays.streamlit.app/)
 
 &nbsp;
 &nbsp;
