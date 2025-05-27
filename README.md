@@ -24,3 +24,6 @@
 | 10 | 중앙고    | 조성현(19) | 0.478 |
 
 </center>
+
+
+![image](https://github.com/user-attachments/assets/96216143-4e44-4fff-aa50-3083472fee06)
