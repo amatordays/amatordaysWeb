@@ -1,6 +1,7 @@
 <h3 style="text-align:center;">고교야구 데이터 기록실</h3>  
 
-
+&nbsp;
+&nbsp;
 - 투수 타율 TOP 5
   
 | 순위  | 선수명 | 팀 | 타율 |
